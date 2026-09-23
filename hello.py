@@ -1,2 +1,2 @@
 print("test meesage")
-print("another test")
+print("another test from main")
